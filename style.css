@@ -24,10 +24,10 @@ nav h1{
 a:hover {
     width:80px;
     border: white;
-    border-bottom-style:solid;
+    border: 1px solid;
     border-radius: 1px;
-    background-color: rgb(61, 60, 60);
     transition: 0.2s;
+    background-color: rgb(56, 56, 56);
     
 }
 
@@ -146,3 +146,4 @@ body {
     height:450px ;
     transition: 0.2s;
 }
+
